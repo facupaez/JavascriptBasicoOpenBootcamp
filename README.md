@@ -1,2 +1,2 @@
 # JavascriptBasicoOpenBootCamp
-Ejercicios Javascript para open boot camp
+Ejercicios básicos Javascript para open boot camp
